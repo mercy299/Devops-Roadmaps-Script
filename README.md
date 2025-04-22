@@ -24,7 +24,7 @@ Create compressed archives of log files from any specified directory. Includes a
 ### 🗄️ **Nginx-Log-Analyser**
 This is a simple tool to analyze Nginx access logs from the command line.
 
-📂 Path: [`Nginx-log-Analyser/`](./Nginx-log-Analyser)
+📂 Path: [`Nginx-log-Analyser/`](./Nginx-Log-Analyser)
 
 ---
 ## 🛠️ How to Use

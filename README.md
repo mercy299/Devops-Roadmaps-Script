@@ -27,6 +27,13 @@ This is a simple tool to analyze Nginx access logs from the command line.
 📂 Path: [`Nginx-log-Analyser/`](./Nginx-Log-Analyser)
 
 ---
+
+### 🗄️ **SSH REMOTE SERVER SETUP**
+This is a simple readme on how to setup a basic remote linux server and configure it to allow SSH.
+
+📂 Path: [`Ssh-Remote-Server-Setup/`](./ssh-remote-server-setup)
+
+---
 ## 🛠️ How to Use
 
 ```bash

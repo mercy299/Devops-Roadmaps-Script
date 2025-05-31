@@ -61,3 +61,9 @@ This repository will continue to grow with more hands-on DevOps utilities—auto
 ## 🤝 Contributions Welcome
 
 Got an idea for a lightweight tool? Feel free to submit a pull request or open an issue to discuss!
+
+
+CafeInstance1IPAddress	44.226.21.33
+PrimaryWebSiteURL	44.226.21.33/cafe
+SecondaryWebsiteURL	54.245.116.198/cafe
+CafeInstance2IPAddress	54.245.116.198
